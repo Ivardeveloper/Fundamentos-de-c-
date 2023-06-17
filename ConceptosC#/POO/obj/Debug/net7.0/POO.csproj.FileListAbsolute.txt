@@ -1,0 +1,15 @@
+/home/ivar/Documents/Practicas/POO/bin/Debug/net7.0/POO
+/home/ivar/Documents/Practicas/POO/bin/Debug/net7.0/POO.deps.json
+/home/ivar/Documents/Practicas/POO/bin/Debug/net7.0/POO.runtimeconfig.json
+/home/ivar/Documents/Practicas/POO/bin/Debug/net7.0/POO.dll
+/home/ivar/Documents/Practicas/POO/bin/Debug/net7.0/POO.pdb
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.csproj.AssemblyReference.cache
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.AssemblyInfoInputs.cache
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.AssemblyInfo.cs
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.csproj.CoreCompileInputs.cache
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.dll
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/refint/POO.dll
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.pdb
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/POO.genruntimeconfig.cache
+/home/ivar/Documents/Practicas/POO/obj/Debug/net7.0/ref/POO.dll

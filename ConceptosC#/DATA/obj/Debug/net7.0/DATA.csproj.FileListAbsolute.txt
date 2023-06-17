@@ -1,0 +1,15 @@
+/home/ivar/Documents/Practicas/DATA/bin/Debug/net7.0/DATA
+/home/ivar/Documents/Practicas/DATA/bin/Debug/net7.0/DATA.deps.json
+/home/ivar/Documents/Practicas/DATA/bin/Debug/net7.0/DATA.runtimeconfig.json
+/home/ivar/Documents/Practicas/DATA/bin/Debug/net7.0/DATA.dll
+/home/ivar/Documents/Practicas/DATA/bin/Debug/net7.0/DATA.pdb
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.csproj.AssemblyReference.cache
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.AssemblyInfoInputs.cache
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.AssemblyInfo.cs
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.csproj.CoreCompileInputs.cache
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.dll
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/refint/DATA.dll
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.pdb
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/DATA.genruntimeconfig.cache
+/home/ivar/Documents/Practicas/DATA/obj/Debug/net7.0/ref/DATA.dll
